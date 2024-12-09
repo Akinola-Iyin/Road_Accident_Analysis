@@ -6,8 +6,7 @@
 - [Key Objectives](#key-objectives)
 - [Dashboard Features](#dashboard-features)
 - [Stakeholders](#stakeholders)
-- [Files and Directories](#files-and-directories)
-- [How to Use](#how-to-use)
+- [Files](#files)
 - [Tools and Techniques](#tools-and-techniques)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
@@ -16,6 +15,8 @@
 
 ## Project Overview
 This project analyzes road accident data for 2021 and 2022 to provide actionable insights using a visually appealing dashboard. The dashboard highlights key performance indicators (KPIs) to assist stakeholders in improving road safety and transport operations.
+
+![RA_Dashboard](https://github.com/user-attachments/assets/3cb8779a-35d8-4397-9072-bc66f83946dd)
 
 
 ### Data Source
@@ -51,17 +52,10 @@ The dataset used for this analysis is the "" , a sample dataset from Kaggle.
 - General Public
 
 
-## Files and Directories
-- **Data**: Contains a sample dataset (`sample_dataset.csv`) sourced from Kaggle.
-- **Scripts**: Includes detailed data cleaning steps and Excel formulas.
-- **Dashboard**: Contains the dashboard file (`road_accident_dashboard.xlsx`) and screenshots of visualized KPIs.
-- **Documentation**: Provides an in-depth analysis report in markdown and PDF formats.
+## Files
+- **Dataset**: You can check out the Excel workbook containing the cleaned data and the interactive dashboard here: [Excel Workbook](https://docs.google.com/spreadsheets/d/11BwMb3GIuYUSnVOuKBAlp5lJ9yUWWyu8/edit?usp=drive_link&ouid=118110181468829394233&rtpof=true&sd=true).
+- **Documentation**: The in-depth analysis report can be downloaded here: .
 
-
-## How to Use
-1. Download the project repository.
-2. Open `road_accident_dashboard.xlsx` in Excel to explore the interactive dashboard.
-3. Refer to the `Documentation` folder for a detailed explanation of the analysis process.
 
 ## Tools and Techniques
 - **Software**: Microsoft Excel
