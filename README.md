@@ -72,31 +72,28 @@ The dataset used for this analysis is the "" , a sample dataset from Kaggle.
 ## Key Insights
 
 Here are actionable insights derived from the road accident analysis, tailored to the stakeholders:
-- Cars accounted for the highest number of casualties (333,484).
-- Urban areas experienced higher casualties compared to rural areas.
-- Dry road surfaces conttributed to the majority of accidents, indicating the importance of behavioral factors.
+- **Cars** accounted for the **highest number of casualties** (333,484).
+- **Urban areas** experienced **higher casualties compared to rural areas**.
+- **Dry road surfaces** conttributed to the **majority of accidents**.
 - Accidents peak in specific months (as shown in the monthly trend comparison).
 - Some road types (e.g., highways) show **maximum casualties**.
 - **Nighttime accidents** have a significant contribution to casualties.
 - Certain locations consistently show high casualties.
-- Severe accidents result in **a high number of fatalities**.
+- **Slight severity accidents** result in **the highest number of casualties**.
 - Certain vehicle types, like motorcycles and heavy goods vehicles, also show notable casualties.  
-- Pedestrians and cyclists are among the most vulnerable road users.
 
 
 ## Recommendations
 
-- Implement stricter vehicle inspections and driver re-certification programs targeting cars.
-- Focus on improving urban traffic infrastructure, including safer pedestrian crossings and enhanced traffic signal systems.
+- Implement stricter vehicle inspections and driver re-certification programs targeting car owners.
+- Focus on improving urban traffic infrastructure e.g safer pedestrian crossings and enhanced traffic signal systems.
 - Introduce driver awareness campaigns on speeding, distracted driving, and maintaining safe distances.
-- Schedule preventive measures such as public safety drives and stricter traffic monitoring during peak months.
+- Schedule preventive measures such as stricter traffic monitoring during peak months.
 - Prioritize road repair and safety measures (e.g., additional barriers, speed breakers) on high-risk roads.
-- Increase patrols and sobriety checkpoints during nighttime to prevent reckless driving and drunk driving.
+- Increase patrols and sobriety checkpoints during night time to prevent reckless driving and drunk driving.
 - Deploy targeted enforcement strategies, including speed monitoring and signage improvements, in high-risk areas.
 - Improve response times by identifying accident-prone areas and deploying ambulances closer to these hotspots.
-- Increase public education on safe driving practices in adverse weather and provide real-time updates on road conditions.
-- Conduct regular safety training for drivers, focusing on defensive driving and handling adverse road conditions.
-- Advocate for better awareness of road safety rules and increased use of safety gear (e.g., helmets, reflective clothing).
+- Conduct regular safety training for truck drivers and advocate for better awareness of road safety rules and increased use of safety gear (e.g., helmets, reflective clothing) for motorcyclists.
 
 
 ## Contact Information
