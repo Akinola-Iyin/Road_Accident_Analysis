@@ -14,7 +14,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
-This project analyzes road accident data for 2021 and 2022 to provide actionable insights using a visually appealing dashboard. The dashboard highlights key performance indicators (KPIs) to assist stakeholders in improving road safety and transport operations.
+This project analyzed road accident data for 2021 and 2022 to provide actionable insights using a visually appealing dashboard. The dashboard highlighted key performance indicators (KPIs) to assist stakeholders in improving road safety and transport operations.
 
 ___
 ![RA_Dashboard](https://github.com/user-attachments/assets/3cb8779a-35d8-4397-9072-bc66f83946dd)
